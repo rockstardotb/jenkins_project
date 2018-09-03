@@ -1,5 +1,6 @@
 FROM centos
 FROM jenkins
+FROM tomcat
 
 USER root
 
